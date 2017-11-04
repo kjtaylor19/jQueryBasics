@@ -1,0 +1,31 @@
+.box2 {
+  width: 450px;
+  height: 200px;
+  background-color: royalblue;
+}
+
+.box3 {
+  width: 900px;
+  height: 500px;
+  background-color: black;
+}
+
+div.p1{
+text-decoration: underline;
+color: blue;
+}
+
+div.p2{
+text-decoration: underline;
+color: black;
+}
+
+div.p3{
+text-decoration: underline;
+color: green;
+}
+
+div.p4{
+text-decoration: underline;
+color: purple;
+}
